@@ -1,7 +1,7 @@
-# Spring Boot E-Commerce Platform
+# Spring Boot Basic setup
 
 ## Project Overview
-This project is a basic e-commerce platform built using Java with the Spring Boot framework. It demonstrates the implementation of microservices architecture and provides the necessary functionalities for managing products, users, and orders. The backend is integrated with a database for persistent storage, using Maven for project management.
+This project is a basic platform built using Java with the Spring Boot framework. It demonstrates the implementation of microservices architecture and provides the necessary functionalities for managing products, users, and orders. The backend is integrated with a database for persistent storage, using Maven for project management.
 
 ## Features
 - **Product Management**: View, add, edit, and delete products.
